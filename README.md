@@ -17,6 +17,14 @@ I Am Void that skid Discord Bots codes and Websites!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=voidfy69&theme=tokyonight&layout=compact)](https://github.com/voidfy69)
 
 
+
+# My GitHub Stats 📊
+
+[![GitHub](https://github-readme-stats.vercel.app/api?username=voidfy69&theme=tokyonight)](https://github.com/voidfy69)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=voidfy69&theme=tokyonight&layout=compact)](https://github.com/voidfy69)
+
+
 - 📫 You can find me at 
 
 [![Join us on Discord](https://invidget.switchblade.xyz/5U6yTjV2UC?theme=dark)](https://discord.gg/5U6yTjV2UC)
