@@ -6,6 +6,6 @@ I am a developer that makes Discord Bots and Websites!
   - FrameSearch ([FrameSearch Github Repo](https://github.com/OddDevelopment/FrameSearch))
 - 📫 You can find me at 
 
-[![Join us on Discord](https://invidget.switchblade.xyz/UU8WccFRU2?theme=dark)](https://discord.gg/UU8WccFRU2)
+[![Join us on Discord]([https://invidget.switchblade.xyz/5U6yTjV2UC?theme=dark](https://discord.gg/5U6yTjV2UC)
 
 ### Check out some of my pinned projects below:
