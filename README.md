@@ -6,6 +6,17 @@ I Am Void that skid Discord Bots codes and Websites!
 - Discord - [jodz.xin](https://discord.com/users/622765592629215233)
 - Instagram - [aayus.not.found](https://instagram.com/aayus.not.found)
 
+## Visitors
+![~ Hacker_xD#0007](https://profile-counter.glitch.me/ItzYourHacker/count.svg)
+
+
+# My GitHub Stats 📊
+
+[![GitHub](https://github-readme-stats.vercel.app/api?username=ItzYourHacker&theme=tokyonight)](https://github.com/ItzYourHacker)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=voidfy69&theme=tokyonight&layout=compact)](https://github.com/voidfy69)
+
+
 - 📫 You can find me at 
 
 [![Join us on Discord](https://invidget.switchblade.xyz/5U6yTjV2UC?theme=dark)](https://discord.gg/5U6yTjV2UC)
