@@ -1,7 +1,7 @@
 ## About Me:
 
 I Am Void that skid Discord Bots codes and Websites!
-- 🔭 I’m currently working on **2 Projects**
+- 🔭 I’m currently working on public selfbot
   - Amarok (https://discord.gg/5U6yTjV2UC) **Join To Get Bot Invite Link**
   - Discord Id (https://discord.com/users/1182729156077813811](https://github.com/OddDevelopment/FrameSearch))
 - 📫 You can find me at 
