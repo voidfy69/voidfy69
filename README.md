@@ -1,13 +1,15 @@
 ## About Me:
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/622765592629215233)](https://discord.com/users/622765592629215233)
+
+
 I Am Void that skid Discord Bots codes and Websites!
 - 🔭 I’m currently working on public selfbot
 - Discord - [jodz.xin](https://discord.com/users/622765592629215233)
 - Instagram - [aayus.not.found](https://instagram.com/aayus.not.found)
 
 ## Visitors
-![~ Hacker_xD#0007](https://profile-counter.glitch.me/voidfy69/count.svg)
+![jodz.xin](https://profile-counter.glitch.me/voidfy69/count.svg)
 
 
 # My GitHub Stats 📊
