@@ -14,7 +14,7 @@ I Am Void that skid Discord Bots codes and Websites!
 
 # My GitHub Stats 📊
 
-[![GitHub](https://github-readme-stats.vercel.app/api?username=ItzYourHacker&theme=tokyonight)](https://github.com/ItzYourHacker)
+[![GitHub](https://github-readme-stats.vercel.app/api?username=ItzYourHacker&theme=tokyonight)](https://github.com/voidfy69)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=voidfy69&theme=tokyonight&layout=compact)](https://github.com/voidfy69)
 
