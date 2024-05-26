@@ -1,11 +1,11 @@
 ## About Me:
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1243234940666122330)](https://discord.com/users/1243234940666122330)
+[![Discord Presence](https://lanyard.cnrad.dev/api/932031167778127963)](https://discord.com/users/932031167778127963)
 
 
 I Am Void that skid Discord Bots codes and Websites!
 - 🔭 I’m currently working on public selfbot
-- Discord - [V O I D](https://discord.com/users/1243234940666122330)
+- Discord - [V O I D](https://discord.com/users/932031167778127963)
 - Instagram - [lucifer.fyy](https://instagram.com/lucifer.fyy)
 
 ## Visitors
