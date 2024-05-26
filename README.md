@@ -5,7 +5,7 @@
 
 I Am Void that skid Discord Bots codes and Websites!
 - 🔭 I’m currently working on public selfbot
-- Discord - [jodz.xin](https://discord.com/users/1243234940666122330)
+- Discord - [V O I D](https://discord.com/users/1243234940666122330)
 - Instagram - [aayus.not.found](https://instagram.com/aayus.not.found)
 
 ## Visitors
