@@ -1,15 +1,15 @@
 ## About Me:
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/622765592629215233)](https://discord.com/users/622765592629215233)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1243234940666122330)](https://discord.com/users/1243234940666122330)
 
 
 I Am Void that skid Discord Bots codes and Websites!
 - 🔭 I’m currently working on public selfbot
-- Discord - [jodz.xin](https://discord.com/users/622765592629215233)
+- Discord - [jodz.xin](https://discord.com/users/1243234940666122330)
 - Instagram - [aayus.not.found](https://instagram.com/aayus.not.found)
 
 ## Visitors
-![jodz.xin](https://profile-counter.glitch.me/voidfy69/count.svg)
+![V O I D](https://profile-counter.glitch.me/voidfy69/count.svg)
 
 
 # My GitHub Stats 📊
@@ -23,6 +23,6 @@ I Am Void that skid Discord Bots codes and Websites!
 
 # - 📫 You can find me at 
 
-[![Join us on Discord](https://invidget.switchblade.xyz/5U6yTjV2UC?theme=dark)](https://discord.gg/5U6yTjV2UC)
+[![Join us on Discord](https://invidget.switchblade.xyz/coders?theme=dark)](https://discord.gg/coders)
 
 ### Check out some of my pinned projects below:
