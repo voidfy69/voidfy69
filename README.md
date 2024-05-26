@@ -6,7 +6,7 @@
 I Am Void that skid Discord Bots codes and Websites!
 - 🔭 I’m currently working on public selfbot
 - Discord - [V O I D](https://discord.com/users/1243234940666122330)
-- Instagram - [aayus.not.found](https://instagram.com/aayus.not.found)
+- Instagram - [lucifer.fyy](https://instagram.com/lucifer.fyy)
 
 ## Visitors
 ![V O I D](https://profile-counter.glitch.me/voidfy69/count.svg)
