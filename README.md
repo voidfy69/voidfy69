@@ -23,6 +23,6 @@ I Am Void that skid Discord Bots codes and Websites!
 
 # - 📫 You can find me at 
 
-[![Join us on Discord](https://invidget.switchblade.xyz/coders?theme=dark)](https://discord.gg/coders)
+[![Join us on Discord](https://invidget.switchblade.xyz/coders?theme=dark)](https://discord.gg/dwarika)
 
 ### Check out some of my pinned projects below:
