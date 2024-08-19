@@ -1,6 +1,6 @@
 ## About Me:
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/932031167778127963)](https://discord.com/users/932031167778127963)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1207080455225213061)](https://discord.com/users/1207080455225213061)
 
 
 I Am Void that skid Discord Bots codes and Websites!
