@@ -2,7 +2,7 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1207080455225213061)](https://discord.com/users/1207080455225213061)
 
-[![Discord Bots](https://top.gg/api/widget/1096394407823028276.svg)(https://top.gg/bot/1096394407823028276)
+(https://top.gg/api/widget/1096394407823028276.svg)(https://top.gg/bot/1096394407823028276)
 
 I Am Void that skid Discord Bots codes and Websites!
 - 🔭 I’m currently working on public selfbot
